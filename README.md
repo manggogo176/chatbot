@@ -7,7 +7,6 @@
 
 ```
 pip install pandas
-
 ```
 
 - 챗봇 구현
